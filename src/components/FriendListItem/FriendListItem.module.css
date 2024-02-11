@@ -14,10 +14,10 @@
   color: #000;
 }
 
-.friendsIsOnline {
+.statusOnline {
   color: green;
 }
 
-.friendsIsOffline {
+.statusOffline {
   color: red;
 }
