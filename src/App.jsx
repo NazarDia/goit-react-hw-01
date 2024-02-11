@@ -1,9 +1,9 @@
 import { Profile } from './components/Profile/Profile';
 import { FriendList } from './components/FriendList/FriendList';
 import { TransactionHistory } from './components/TransactionHistory/TransactionHistory';
-import userData from './data/userData.json';
-import friends from './data/friends.json';
-import transactions from './data/transactions.json';
+import userData from './dataedited/userData.json';
+import friends from './dataedited/friends.json';
+import transactions from './dataedited/transactions.json';
 import './App.css';
 import '../node_modules/modern-normalize/modern-normalize.css';
 
