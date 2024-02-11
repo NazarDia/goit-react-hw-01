@@ -1,4 +1,4 @@
-import { Profile } from './components/Profile/Profile';
+import { Profile } from './components/profiledited/Profile';
 import { FriendList } from './components/FriendList/FriendList';
 import { TransactionHistory } from './components/TransactionHistory/TransactionHistory';
 import userData from './dataedited/userData.json';
